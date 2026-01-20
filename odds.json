@@ -1,20 +1,5 @@
 [
   {
-    "id": "b9d4c49ff5254d29e970cbb40bb6b2ea",
-    "date": "2026-01-20T00:30:00Z",
-    "home_team": "Indiana Hoosiers",
-    "away_team": "Miami Hurricanes",
-    "spread": "-8.5",
-    "spread_raw": -8.5,
-    "over_under": "47.5",
-    "info": "",
-    "league": "NCAAF",
-    "status": "Final",
-    "winner": "Away",
-    "home_score": 27,
-    "away_score": 21
-  },
-  {
     "id": "f1d11f109fd93364e11f97623bddf652",
     "date": "2026-01-25T20:00:00Z",
     "home_team": "Denver Broncos",
