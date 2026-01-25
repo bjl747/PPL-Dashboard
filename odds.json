@@ -9,8 +9,8 @@
     "over_under": "43.5",
     "info": "",
     "league": "NFL",
-    "status": "In Progress",
-    "winner": null,
+    "status": "Final",
+    "winner": "Home",
     "home_score": 7,
     "away_score": 10
   },
