@@ -1,32 +1,17 @@
 [
   {
-    "id": "f1d11f109fd93364e11f97623bddf652",
-    "date": "2026-01-25T20:00:00Z",
-    "home_team": "Denver Broncos",
-    "away_team": "New England Patriots",
-    "spread": "3.5",
-    "spread_raw": 3.5,
-    "over_under": "43.5",
+    "id": "b64e3587d7a4cf01a568e7150a2a1aec",
+    "date": "2026-02-08T23:30:00Z",
+    "home_team": "New England Patriots",
+    "away_team": "Seattle Seahawks",
+    "spread": "4.5",
+    "spread_raw": 4.5,
+    "over_under": "46.5",
     "info": "",
     "league": "NFL",
-    "status": "Final",
-    "winner": "Home",
-    "home_score": 7,
-    "away_score": 10
-  },
-  {
-    "id": "4bc6eb576f5079baecce8c56689c259a",
-    "date": "2026-01-25T23:30:00Z",
-    "home_team": "Seattle Seahawks",
-    "away_team": "Los Angeles Rams",
-    "spread": "-2.5",
-    "spread_raw": -2.5,
-    "over_under": "45.5",
-    "info": "",
-    "league": "NFL",
-    "status": "Final",
-    "winner": "Home",
-    "home_score": 31,
-    "away_score": 27
+    "status": "Scheduled",
+    "winner": null,
+    "home_score": 0,
+    "away_score": 0
   }
 ]
