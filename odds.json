@@ -1,20 +1,5 @@
 [
   {
-    "id": "b64e3587d7a4cf01a568e7150a2a1aec",
-    "date": "2026-02-08T23:30:00Z",
-    "home_team": "New England Patriots",
-    "away_team": "Seattle Seahawks",
-    "spread": "4.5",
-    "spread_raw": 4.5,
-    "over_under": "45.5",
-    "info": "",
-    "league": "NFL",
-    "status": "Final",
-    "winner": "Away",
-    "home_score": 13,
-    "away_score": 29
-  },
-  {
     "id": "123a238486098cc9e8f71fea0cf4e7b0",
     "date": "2026-08-29T16:00:00Z",
     "home_team": "Virginia Cavaliers",
