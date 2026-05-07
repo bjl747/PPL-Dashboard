@@ -135,6 +135,21 @@
     "away_score": 0
   },
   {
+    "id": "acc580d74344ea3b31bbcdd057fe6a9c",
+    "date": "2026-09-11T00:35:00Z",
+    "home_team": "Los Angeles Rams",
+    "away_team": "San Francisco 49ers",
+    "spread": "-2.5",
+    "spread_raw": -2.5,
+    "over_under": "48.5",
+    "info": "",
+    "league": "NFL",
+    "status": "Scheduled",
+    "winner": null,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
     "id": "b38f4f63351c15767e64a76a73589574",
     "date": "2026-09-12T16:00:00Z",
     "home_team": "Michigan Wolverines",
