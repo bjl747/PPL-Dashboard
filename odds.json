@@ -180,6 +180,21 @@
     "away_score": 0
   },
   {
+    "id": "7356f9bad07c48fc6b78f52e38c85c11",
+    "date": "2026-09-05T00:00:00Z",
+    "home_team": "Oklahoma Sooners",
+    "away_team": "UTEP Miners",
+    "spread": "-40.5",
+    "spread_raw": -40.5,
+    "over_under": "50.5",
+    "info": "",
+    "league": "NCAAF",
+    "status": "Scheduled",
+    "winner": null,
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
     "id": "a77e0c42754f1a99ae4fbea861a78408",
     "date": "2026-09-05T01:00:00Z",
     "home_team": "USC Trojans",
@@ -307,21 +322,6 @@
     "spread": "-23.5",
     "spread_raw": -23.5,
     "over_under": "47.5",
-    "info": "",
-    "league": "NCAAF",
-    "status": "Scheduled",
-    "winner": null,
-    "home_score": 0,
-    "away_score": 0
-  },
-  {
-    "id": "7356f9bad07c48fc6b78f52e38c85c11",
-    "date": "2026-09-05T16:00:00Z",
-    "home_team": "Oklahoma Sooners",
-    "away_team": "UTEP Miners",
-    "spread": "-40.5",
-    "spread_raw": -40.5,
-    "over_under": "50.5",
     "info": "",
     "league": "NCAAF",
     "status": "Scheduled",
